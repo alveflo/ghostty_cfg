@@ -1,7 +1,10 @@
-window-decoration = false
+# window-decoration = false
+shell-integration = zsh
 window-padding-x = 10
 window-padding-y = 10
 theme = TokyoNight Moon
+
+gtk-single-instance = true
 
 # This is the configuration file for Ghostty.
 #
